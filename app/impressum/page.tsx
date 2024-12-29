@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 
-export default function Impressum2() {
+export default function Impressum() {
   return (
     <div className="min-h-screen bg-white">
       {/* Navigation */}

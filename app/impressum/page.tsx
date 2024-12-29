@@ -65,7 +65,7 @@ export default function Impressum2() {
         <div className="container mx-auto px-4">
           <div className="text-center">
             <div className="mb-4">
-              <Link href="/impressum2" className="text-[#333333]/80 hover:text-[#649600]">
+              <Link href="/impressum" className="text-[#333333]/80 hover:text-[#649600]">
                 Impressum
               </Link>
             </div>

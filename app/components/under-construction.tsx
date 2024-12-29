@@ -56,7 +56,7 @@ export default function UnderConstruction() {
             </div>
             <nav className="mt-8">
              <Link
-                href="/impressum2"
+                href="/impressum"
                 className="block text-2xl text-gray-800 hover:text-[#649600] mb-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
@@ -95,7 +95,7 @@ export default function UnderConstruction() {
           <p className="text-sm text-gray-600">
             © {new Date().getFullYear()} EnterNature. Alle Rechte vorbehalten.
           </p>
-         <Link href="/impressum2" className="text-sm text-[#649600] hover:underline mt-2 inline-block ml-4">
+         <Link href="/impressum" className="text-sm text-[#649600] hover:underline mt-2 inline-block ml-4">
             Impressum
           </Link>
         </div>
